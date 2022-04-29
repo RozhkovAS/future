@@ -1,3 +1,3 @@
-a = int(input('a: '))
-b = int(input('b: '))
-print(a + b)
+a = 'qerwe'
+b = 4 
+print(a * b)
